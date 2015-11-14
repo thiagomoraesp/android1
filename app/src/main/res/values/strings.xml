@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saudacao</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_principal">Olá %1$s %2$s tudo bem?</string>
+</resources>
